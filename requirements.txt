@@ -1,0 +1,19 @@
+# Core packages
+numpy==1.23.5
+pandas
+boto3
+dill
+pickle-mixin
+
+# NLP packages
+nltk
+spacy
+beautifulsoup4
+en-core-web-sm
+
+# Machine learning
+scikit-learn
+xgboost
+
+# Utilities
+python-dateutil
